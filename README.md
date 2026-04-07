@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 -->
 
 ## How to reach me 
-- mobile: [+1(902)-220-7130](tel: +1(902)-220-7130)
-- email: [YanruiWang@dal.ca](mailto: YanruiWang@dal.ca)
+- mobile: [+1(902)-220-7130](tel:+1(902)-220-7130)
+- email: [YanruiWang@dal.ca](mailto:YanruiWang@dal.ca)

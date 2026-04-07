@@ -3,7 +3,7 @@
 ## About me
 - name: Yanrui Wang
 - I'm a computer science undergraduate student at Dalhousie University, Canada. 
-- I am currently studying machine learning
+
 
 ## Experience
 ### Mobile platform
@@ -12,6 +12,8 @@
 - React
 - Vue
 
+## Interest
+- I am currently studying machine learning, hope to work in AI development in the future.
 
 ## projects
 - iOS [Circle Menu](https://github.com/YanruiWang/YRCircleMenu)

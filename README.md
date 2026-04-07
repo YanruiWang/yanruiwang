@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ## How to reach me 
 - mobile: [(902)-220-7130](tel:+19022207130)
 - email: [YanruiWang@dal.ca](mailto:YanruiWang@dal.ca)
-- [github](https://https://github.com/YanruiWang)
+- github: [github.com/YanruiWang](https://github.com/YanruiWang)

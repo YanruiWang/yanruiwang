@@ -1,4 +1,7 @@
-## Hi there 👋
+## About me
+- name: Yanrui Wang
+- pronoun: he/him
+- I'm a computer science undergraduate student at Dalhousie University, Canada.
 
 <!--
 **YanruiWang/yanruiwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## How to reach me 
+- mobile: [+1(902)-220-7130](tel: +1(902)-220-7130)
+- email: [YanruiWang@dal.ca](mailto: YanruiWang@dal.ca)

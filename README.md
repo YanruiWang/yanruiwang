@@ -2,7 +2,6 @@
 
 ## About me
 - name: Yanrui Wang
-- pronoun: he/him
 - I'm a computer science undergraduate student at Dalhousie University, Canada. 
 
 ## Experience

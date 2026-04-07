@@ -1,23 +1,21 @@
+# Hi, I'm Yanrui Wang
+
 ## About me
 - name: Yanrui Wang
 - pronoun: he/him
-- I'm a computer science undergraduate student at Dalhousie University, Canada.
+- I'm a computer science undergraduate student at Dalhousie University, Canada. 
 
-<!--
-**YanruiWang/yanruiwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience
+- Mobile platform: iOS, Android application
+- Frontend: React
+- I am currently studying machine learning
 
-Here are some ideas to get you started:
+## projects
+- iOS [Circle Menu](https://github.com/YanruiWang/YRCircleMenu)
+- iOS [HHCRefresh](https://github.com/YanruiWang/HHCRefresh)
+- iOS [GameOfLIfe](https://github.com/YanruiWang/GameOfLife)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-## How to reach me 
+## Where to find me
 - email: [YanruiWang@dal.ca](mailto:YanruiWang@dal.ca)
 - github: [github.com/YanruiWang](https://github.com/YanruiWang)
